@@ -9,15 +9,15 @@
 - **Библиотеки и фреймворки**: *React*, *Redux*, *Redux Toolkit*, *Chakra UI*, *React-Query*, React Hook Form (базовые знания)
 - **Инструменты и технологии**: *Git*, *SQL*, JWT токен, понимание работы с REST API и с Docker 
 
+## Сейчас работаю над проектами
+- [Medicine Project](https://github.com/denischagin/medicine-project) : React, Typescript, React Query, Chakra UI, React Hook Form, Axios, Feature-sliced-design.
+разрабатывается сервис для просмотра больниц и врачей по всей стране, записи ко врачу
+
 ## Мои проекты
 Я практиковал свои знания на различных pet-проектах:
 - [Speed-typing with Redux Toolkit](https://github.com/denischagin/speed-typing): тренажер скорости печати: React, Redux-Toolkit, Redux-Thunk, Material UI
 - [Авторизация с помощью JWT-токена](https://github.com/denischagin/testing_jwt_auth): авторизация и регистрация с помощью JWT токена: Typescript, React-Query, Axios, React Hook Form, Material UI
-- [Фронтенд для webjournal](https://github.com/QwZxC/WebJournal): разработана логика получения занятий с сервера с помощью React-Query, остальной стек: Typescript, Material UI
-- Другие небольшие проекты: [React Comments With Redux Toolkit](https://github.com/denischagin/comments.git), [Layout For Profile Page](https://github.com/denischagin/profile-layout), [Speed-typing with Redux Toolkit](https://github.com/denischagin/speed-typing)
-
-## Сейчас работаю над проектами
-- [Medicine Project](https://github.com/denischagin/MedicineProjectFrontend)
+- Другие небольшие проекты: [React Comments With Redux Toolkit](https://github.com/denischagin/comments.git), [Layout For Profile Page](https://github.com/denischagin/profile-layout)
 
 ## Контакты
 - E-mail: [denischaginnn@gmail.com](mailto:denischaginnn@gmail.com)
