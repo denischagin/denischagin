@@ -10,8 +10,9 @@
 - **Инструменты и технологии**: *Git*, *SQL*, JWT токен, понимание работы с REST API и с Docker 
 
 ## Сейчас работаю над проектами
-- [Medicine Project](https://github.com/denischagin/medicine-project) : React, Typescript, React Query, Chakra UI, React Hook Form, Axios, Feature-sliced-design.
-разрабатывается сервис для просмотра больниц и врачей по всей стране, записи ко врачу
+- [Medicine Project](https://github.com/denischagin/medicine-project) : React, Typescript, React Query, Chakra UI, React Hook Form, Axios, Feature-sliced-design, JWT Auth (refresh, access tokens).
+
+Разрабатывается сервис для просмотра больниц и врачей по всей стране, записи ко врачу
 
 ## Мои проекты
 Я практиковал свои знания на различных pet-проектах:
