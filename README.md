@@ -9,14 +9,27 @@
 - **Библиотеки и фреймворки**: *React*, *Redux*, *Redux Toolkit*, *Chakra UI*, *React-Query*, React Hook Form (базовые знания)
 - **Инструменты и технологии**: *Git*, *SQL*, JWT токен, понимание работы с REST API и с Docker 
 
-## Сейчас работаю над проектами
-- [Medicine Project](https://github.com/denischagin/medicine-project) : React, Typescript, React Query, Chakra UI, React Hook Form, Axios, Feature-sliced-design, JWT Auth (refresh, access tokens).
-
-Разрабатывается сервис для просмотра больниц и врачей по всей стране, записи ко врачу
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+</div>
 
 ## Мои проекты
 Я практиковал свои знания на различных pet-проектах:
-- [Speed-typing with Redux Toolkit](https://github.com/denischagin/speed-typing): тренажер скорости печати: React, Redux-Toolkit, Redux-Thunk, Material UI
+- [Speed-typing](https://github.com/denischagin/speed-typing-new): тренажер скорости печати: React, Typescript, React Query, Effector, Chakra UI
 - [Авторизация с помощью JWT-токена](https://github.com/denischagin/testing_jwt_auth): авторизация и регистрация с помощью JWT токена: Typescript, React-Query, Axios, React Hook Form, Material UI
 - Другие небольшие проекты: [React Comments With Redux Toolkit](https://github.com/denischagin/comments.git), [Layout For Profile Page](https://github.com/denischagin/profile-layout)
 
