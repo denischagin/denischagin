@@ -1,13 +1,15 @@
 # Привет, я Frontend Developer 👋
 
 ## Обо мне
+
 Меня зовут Денис, и я Frontend Developer со страстью к созданию удивительных и динамических веб-приложений. Я работаю с HTML, CSS, JavaScript и имею опыт работы с библиотеками и фреймворками, такими как React, React Query, Chakra UI, Material UI, Redux и Redux Toolkit.
 
 ## Мои навыки
-- **Языки разметки и стилей**: *HTML*, *CSS*, *БЭМ* методология
-- **Языки программирования**: *JavaScript*, *TypeScript*, понимание основ языков: Python, Java
-- **Библиотеки и фреймворки**: *React*, *Redux*, *Redux Toolkit*, *Chakra UI*, *React-Query*, React Hook Form (базовые знания)
-- **Инструменты и технологии**: *Git*, *SQL*, JWT токен, понимание работы с REST API и с Docker 
+
+- **Языки разметки и стилей**: _HTML_, _CSS_, _БЭМ_ методология
+- **Языки программирования**: _JavaScript_, _TypeScript_, понимание основ языков: Python, Java
+- **Библиотеки и фреймворки**: _React_, _Redux_, _Redux Toolkit_, _Chakra UI_, _React-Query_, React Hook Form (базовые знания)
+- **Инструменты и технологии**: _Git_, _SQL_, JWT токен, понимание работы с REST API и с Docker
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -27,17 +29,26 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
+---
+
+<div align="center">
+    <a href="https://leetcode.com/denischaginnn/" target="_blank">
+        <img src="https://leetcode-stats-six.vercel.app/api?username=denischaginnn&theme=dark" alt="denischagin's leetcode stats">
+    </a>
+</div>
+
 ## Мои проекты
+
 Я практиковал свои знания на различных pet-проектах:
+
 - [Speed-typing](https://github.com/denischagin/speed-typing-new): тренажер скорости печати: React, Typescript, React Query, Effector, Chakra UI
 - [Авторизация с помощью JWT-токена](https://github.com/denischagin/testing_jwt_auth): авторизация и регистрация с помощью JWT токена: Typescript, React-Query, Axios, React Hook Form, Material UI
 - Другие небольшие проекты: [React Comments With Redux Toolkit](https://github.com/denischagin/comments.git), [Layout For Profile Page](https://github.com/denischagin/profile-layout)
 
 ## Контакты
+
 - E-mail: [denischaginnn@gmail.com](mailto:denischaginnn@gmail.com)
 - Telegram: [Denis Chagin](https://t.me/cheek_react)
-
-
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denischagin&theme=solarized_dark)
 
