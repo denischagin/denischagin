@@ -33,7 +33,7 @@
 
 <div align="center">
     <a href="https://leetcode.com/denischaginnn/" target="_blank">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=denischaginnn&theme=dark" alt="denischagin's leetcode stats">
+        <img src="https://leetcard.jacoblin.cool/denischaginnn?theme=dark" alt="denischagin's leetcode stats">
     </a>
 </div>
 
