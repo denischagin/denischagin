@@ -39,11 +39,9 @@
 
 ## Мои проекты
 
-Я практиковал свои знания на различных pet-проектах:
-
-- [Speed-typing](https://github.com/denischagin/speed-typing-new): тренажер скорости печати: React, Typescript, React Query, Effector, Chakra UI
-- [Авторизация с помощью JWT-токена](https://github.com/denischagin/testing_jwt_auth): авторизация и регистрация с помощью JWT токена: Typescript, React-Query, Axios, React Hook Form, Material UI
-- Другие небольшие проекты: [React Comments With Redux Toolkit](https://github.com/denischagin/comments.git), [Layout For Profile Page](https://github.com/denischagin/profile-layout)
+Я практиковаю свои знания на различных pet-проектах:
+- [Code-typing](https://github.com/denischagin/code-typing): интерактивный тренажер для печати кода: React, Typescript, React Query, Effector, Chakra UI
+- множество других небольших проектов, можете глянуть репозитории )
 
 ## Контакты
 
